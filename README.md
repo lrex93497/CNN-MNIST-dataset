@@ -4,7 +4,7 @@ test set and train set according to the dataset itself.
 
 You need torch, torchvision and matplotlib to run the program, recommand to have cuda support device.
 Run the program, it will first download the data and train itself for 4 epoch
-\n
+/n
 It will then test accuracy, it can achieve around around 98% (98.74% as i tested) of accuracy.
 At the end of the program, it will extract the first convolutional layer and visualize it, then asve a .png at same root.
 
