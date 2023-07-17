@@ -12,7 +12,7 @@ At the end of the program, it will extract the first convolutional layer and vis
  <img src="Structure.png" alt="Structure.png">
 
 # first convolutional layer visualization
- <img src="output_filters.png" alt="output_filters.png" width="400" height="400">
+ <img src="output_filters.png" alt="output_filters.png" width="360" height="360">
 
 # Reference
 Structure of CNN reference to https://www.cs.ox.ac.uk/people/varun.kanade/teaching/ML-MT2016/practicals/practical3.pdf
