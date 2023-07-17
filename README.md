@@ -13,7 +13,7 @@ At the end of the program, it will extract the first convolutional layer and vis
 
 # first convolutional layer visualization
  <img src="output_filters.png" alt="output_filters.png" width="360" height="360">
- To see a clear one, just download the image.
+ To see a clear one, just download the image and magnify it locally.
 
 # Reference
 Structure of CNN reference to https://www.cs.ox.ac.uk/people/varun.kanade/teaching/ML-MT2016/practicals/practical3.pdf
